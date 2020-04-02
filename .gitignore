@@ -1,0 +1,5 @@
+# dependencies
+/react/node_modules
+
+# misc
+.DS_Store
